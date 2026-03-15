@@ -1,6 +1,6 @@
-# Procesamiento del Lenguaje Natural II - CEIA FIUBA
+# Procesamiento del Lenguaje Natural - CEIA FIUBA
 
-Desafíos de la materia Procesamiento del Lenguaje Natural II de la Carrera de Especialización en Inteligencia Artificial (CEIA) - FIUBA.
+Desafíos de la materia Procesamiento del Lenguaje Natural de la Carrera de Especialización en Inteligencia Artificial (CEIA) - FIUBA.
 
 ## Desafíos
 

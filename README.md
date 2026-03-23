@@ -6,4 +6,5 @@ Desafíos de la materia Procesamiento del Lenguaje Natural de la Carrera de Espe
 
 | # | Tema | Notebook |
 |---|------|----------|
-| 1 | Vectorización de texto y clasificación Naïve Bayes | [Desafio_1.ipynb](Desafio_1.ipynb) |
+| 1 | Vectorización de texto y clasificación Naïve Bayes | [Desafio_1.ipynb](Desafios/Desafio_1.ipynb) |
+| 2 | Custom embeddings con Gensim (Radiohead) | [Desafio_2.ipynb](Desafios/Desafio_2.ipynb) |
